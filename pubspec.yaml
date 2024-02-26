@@ -1,0 +1,19 @@
+name: show_hide_animation
+description: "A new Flutter project."
+publish_to: "none"
+version: 0.1.0
+
+environment:
+  sdk: ">=3.2.0 <4.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  hard_analyser: ^1.7.0
+
+flutter:
+  uses-material-design: true
